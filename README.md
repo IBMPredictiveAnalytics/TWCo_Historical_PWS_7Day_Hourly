@@ -11,6 +11,7 @@ This implementation allows you to connect to APIs provided by The Weather Compan
 ---
 # Overview for Historical PWS 7Day Hourly
 PWS Historical Observations - Hourly observations for the past 7 days - Archived data from 200,000+ Weather Underground crowd-sourced sensors from 2000
+
 ---
 # Reference
 [The Weather Company](http://www.theweathercompany.com/)  
